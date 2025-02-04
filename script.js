@@ -1,5 +1,1 @@
-/// create 1 to 50 loop 
-for (let i = 0; i <= 50; i++) {
-    console.log(i);
-}
- ///output :  
+/// throw error when user don't pass the value for function
