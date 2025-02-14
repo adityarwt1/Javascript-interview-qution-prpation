@@ -1,1 +1,0 @@
-/// throw error when user don't pass the value for function
